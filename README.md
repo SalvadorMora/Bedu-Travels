@@ -3,20 +3,18 @@
 
 ### OBJETIVO
 
-El alumno conozca la adminstración básica de un repositorio de Git.
+Desarrollar la vista Home del sitio de BeduTravel.
 
 ### DESARROLLO
 
-Este repositorio es un ejemplo para los alumnos en el que podrán ver cómo deberá de estructurarse su proyecto respecto a las branch y commits que los componen.
+El alumno deberá de desarrollar con diversas herramientas la vista de Home en el transcurso de las primeras sesiones.
 
-Dentro de este repositorio tendremos las siguientes branch.
+La vista de Home estará compuesta por:
 
-- Home
+- Barra de navegación
 
-- LoginRegister
+- Portada
 
-- UserProfile
+- Países favoritos
 
-- DestinationCountries
-
-- InfoDestination
+- Footer
